@@ -1,4 +1,4 @@
-param($RDPPort=11111)
+param($RDPPort=10086)
 
 $TSPath = 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server'
 $RDPTCPpath = $TSPath + '\Winstations\RDP-Tcp'
