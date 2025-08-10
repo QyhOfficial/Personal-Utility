@@ -1,3 +1,5 @@
+# This script is copied from Chandan Kumar. https://geekflare.com/dev/delete-cloudflare-pages-old-deployment/
+
 import requests
 
 # Cloudflare Config

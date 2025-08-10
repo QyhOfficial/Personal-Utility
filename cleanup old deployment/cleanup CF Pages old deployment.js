@@ -3,9 +3,9 @@
 // 警告：将 API 令牌硬编码在代码中存在严重安全风险。
 // 建议使用 Cloudflare Secrets 来存储此令牌。
 // =================================================================
-const API_TOKEN = "";
-const ACCOUNT_ID = "";
-const PROJECT_NAME = "moontv";
+const API_TOKEN = "cloudflare_api_token_here";
+const ACCOUNT_ID = "cloudflare_account_id_here";
+const PROJECT_NAME = "cloudflare_pages_app_name";
 const KEEP_DEPLOYMENTS = 3; // 保留最新的部署数量
 
 // API 端点和请求头
